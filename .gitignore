@@ -67,7 +67,6 @@ tests/tcpmux
 *.vcxproj.filters
 *.vcxproj.user
 Debug
-Release
 CMakeFiles
 .cproject
 .project
